@@ -1,4 +1,4 @@
-# LogHawk Mini
+# LogHawk 
 
 Small Log Parser + Brute Force Detector in Node.js
 
